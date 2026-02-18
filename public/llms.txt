@@ -1,0 +1,53 @@
+# האקדמיה לניהול עסקים — Generative Engine Optimization Map
+
+> A הדרכה עסקית וניהול business.
+
+---
+
+## Pages
+
+### בית
+https://-797ef9b1.zappy5.app
+
+### שירותים
+https://-797ef9b1.zappy5.app/services
+
+### אודות
+https://-797ef9b1.zappy5.app/about
+
+### צור קשר
+https://-797ef9b1.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-797ef9b1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-797ef9b1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-797ef9b1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About האקדמיה לניהול עסקים
+האקדמיה לניהול עסקים is a business in the הדרכה עסקית וניהול industry.
+
+## Target Audience
+בעלי עסקים בתחום מקצועות היופי (ספרים, קוסמטיקה)
+
+## Industry
+הדרכה עסקית וניהול
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-797ef9b1.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-797ef9b1.zappy5.app/robots.txt
